@@ -21,7 +21,7 @@ python your_file_name.py
 * Ideal user profile
 
 
-####⚠️ AI Behavior
+ ##### AI Behavior
 
 * Built-in fallback ensures smooth execution 
 * Does not produce real AI-generated content by default 
